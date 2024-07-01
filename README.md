@@ -1,6 +1,6 @@
 # ContextAPI
 
-This package provides a way to share state and other data between components without having to pass props down manually at every level. It's a built-in React tool that allows for easier management and use of global state.
+This project provides a way to share state and other data between components without having to pass props down manually at every level. It's a built-in React tool that allows for easier management and use of global state.
 
 ## Key Features
 
